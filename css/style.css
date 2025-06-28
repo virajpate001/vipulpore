@@ -7624,3 +7624,9 @@ width: 60px;
 .blist li{
     margin-bottom: 14px;
 }
+
+.nactive{
+    background-color: #fe409c;
+    border-radius: 100%;
+    color: #fff;
+}
